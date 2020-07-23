@@ -1,1 +1,1 @@
-# Scratch-Pad
+# Scratch-Pad-notes utility app
