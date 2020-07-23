@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/captain"
+    android:background="@drawable/back1"
     tools:context=".Signup1">
 
     >
@@ -19,7 +19,7 @@
         android:layout_marginTop="35dp"
         android:layout_marginEnd="100dp"
         android:background="@drawable/search_outline"
-        android:backgroundTint="#555555"
+        android:backgroundTint="#5E3030"
         android:backgroundTintMode="add"
         android:fontFamily="@font/nunito_bold"
         android:text="SIGN UP"
@@ -46,8 +46,8 @@
         android:paddingTop="10dp"
         android:paddingRight="20dp"
         android:paddingBottom="10dp"
-        android:textColor="#ffffff"
-        android:textColorHint="#ffffff"
+        android:textColor="#5E3030"
+        android:textColorHint="#5E3030"
         android:textSize="16sp" />
 
     <EditText
@@ -66,8 +66,8 @@
         android:paddingTop="10dp"
         android:paddingRight="20dp"
         android:paddingBottom="10dp"
-        android:textColor="#ffffff"
-        android:textColorHint="#ffffff"
+        android:textColor="#5E3030"
+        android:textColorHint="#5E3030"
         android:textSize="16sp" />
 
 
@@ -91,14 +91,14 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="match_parent"
+        android:layout_width="348dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="40dp"
         android:layout_marginTop="50dp"
         android:layout_marginRight="30dp"
         android:fontFamily="@font/berkshire_swash"
-        android:text="Captain's Diary"
-        android:textColor="#ffffff"
+        android:text=" Scratch Pad"
+        android:textColor="#040000"
         android:textSize="50sp" />
 
     <TextView
@@ -114,7 +114,7 @@
         android:fontFamily="@font/nunito_bold"
         android:gravity="center"
         android:text="Already Have Account ? Sign in Here"
-        android:textColor="#000000"
+        android:textColor="#5E3030"
         android:textSize="20sp" />
 
 </RelativeLayout>
